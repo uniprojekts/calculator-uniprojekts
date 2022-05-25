@@ -1,7 +1,5 @@
-Calculator unit test example in Java
+Simple Calculator in Java
 ===============
 
-This project is demo for article for beginners about unit testing http://stokito.blogspot.com/2013/02/blog-post_27.html (sorry, currently only in Russian).
+This project is demo about unit testing and GitHub Actions for test, build and release.
 
-You should use Maven to build project.
-Also I would like to recommend you edit code Intellij Idea.
